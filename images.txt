@@ -35,3 +35,4 @@ xiaoyaliu/alist:latest
 containrrr/watchtower
 qdtoday/qd:latest
 whyour/qinglong:2.12.1
+ghcr.io/danvergara/morphos-server
